@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FvWyb6Cpe9AEUU5NlVCoECuwH7x0Pycy3F4S/Jf2qGk=",
+  "Source": "MoneyMap.Api",
+  "BasePath": "_content/MoneyMap.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
